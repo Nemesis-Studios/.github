@@ -1,6 +1,6 @@
 # Our Website
 
-![Nemesis Studios(https://nemesis-studios.github.io)]
+[Nemesis Studios](https://nemesis-studios.github.io)
 
 # About Us
 
